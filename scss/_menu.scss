@@ -1,0 +1,15 @@
+.menu{
+  &__list{
+    list-style: none;
+  }
+  &__item{
+    padding: 0 16px;
+    a{
+      color: white;
+      text-decoration: none;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+}
