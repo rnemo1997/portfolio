@@ -5,7 +5,7 @@ body{
 
 .row{
   display: flex;
-  width: 1100px;
+  width: 1200px;
   max-width: 95%;
   margin: 0 auto;
 }
@@ -27,4 +27,5 @@ body{
 }
 
 @import 'header';
+@import 'logo';
 @import 'menu';
